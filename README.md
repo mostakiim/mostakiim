@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md Mostakim
+# 👋 Hi, I'm Mohammad Mostakim
 
 💻 **Full Stack Web Developer | Python Enthusiast | Open Source Learner**
 
